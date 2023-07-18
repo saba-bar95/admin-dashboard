@@ -2,7 +2,7 @@
 
 ### This project is done as part of the [Odin course](https://www.theodinproject.com/dashboard)
 
-#### This assignment gave me a good chance to apply the various grid properties and values I had recently learnt about into action, which helped me better appreciate how powerful and important it is to have a thorough understanding of the grid in order to design a high-quality web layout.
+#### This assignment gave me a good chance to apply the various Grid properties and values I had recently learnt about into action, which helped me better appreciate how powerful and important it is to have a thorough understanding of Grid in order to design a high-quality web layout.
 
 ### Build with
 
