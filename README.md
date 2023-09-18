@@ -15,4 +15,3 @@ This assignment gave me a good chance to apply the various Grid properties and v
 ### Author
 
 - [GitHub](https://github.com/saba-bar95)
-- [Coderbyte](https://coderbyte.com/profile/gegewp)
